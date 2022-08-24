@@ -1,0 +1,23 @@
+
+h1 {
+    color:brown;
+    text-align: center;
+    size:30px;
+}
+
+.odin-hall {
+width: 500px;
+height: auto;
+}
+
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    background-color: bisque;
+}
+
+ol{
+    text-align: justify;
+}
